@@ -1,2 +1,1 @@
-# MaquinaCafe-CICD
-
+# Proyecto Máquina de Café con CI/CD
